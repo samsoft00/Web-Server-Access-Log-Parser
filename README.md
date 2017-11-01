@@ -29,3 +29,5 @@ MYSQL Password: ''<br/>
 </P>
 <p>You can config your MYSQL client to use above credentials or run the program to dynamically by including MYSQL credentials at run time like this<br/>
 java -cp "parser.jar" com.ef.Parser --accesslog="/path/to/file" --startDate=2017-01-01.13:05:00 --duration=hourly --threshold=100 --dbUser=root --dbPass=mysql</p>
+
+<a href="https://github.com/samsoft00/Web-Server-Access-Log-Parser/blob/master/Parser/readme.txt">See full Manual</a>
